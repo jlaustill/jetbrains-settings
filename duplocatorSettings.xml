@@ -1,0 +1,17 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="ECMAScript 6" />
+        <option value="JSX Harmony" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="ECMAScript 6" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="JSX Harmony">
+      <option name="DISTINGUISH_FUNCTIONS" value="false" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+  </component>
+</application>
