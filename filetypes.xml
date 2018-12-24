@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".sofirc" type="JSON" />
+      <mapping pattern="UsAddressInput" type="JavaScript" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="master:" type="PLAIN_TEXT" />
