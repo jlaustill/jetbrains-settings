@@ -8,7 +8,9 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="master:" type="PLAIN_TEXT" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
+      <mapping ext="woff2" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="woff" type="PLAIN_TEXT" />
       <mapping ext="build" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
