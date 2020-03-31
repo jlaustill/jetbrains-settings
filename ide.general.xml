@@ -1,9 +1,8 @@
 <application>
   <component name="GeneralSettings">
-    <option name="autoSaveFiles" value="false" />
+    <option name="autoSaveIfInactive" value="true" />
     <option name="searchInBackground" value="true" />
     <option name="showTipsOnStartup" value="false" />
-    <option name="autoSyncFiles" value="false" />
     <option name="useSafeWrite" value="false" />
   </component>
   <component name="Registry">
